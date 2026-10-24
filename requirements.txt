@@ -1,2 +1,2 @@
-bleak>=0.22
-PySide6>=6.6
+bleak
+PySide6
