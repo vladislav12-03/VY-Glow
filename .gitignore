@@ -1,0 +1,16 @@
+# окружение и сборка
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.zip
+
+# macOS и редакторы
+.DS_Store
+.vscode/
+.idea/
+
+# резервные копии
+*_backup.py
